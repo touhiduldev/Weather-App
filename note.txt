@@ -1,0 +1,15 @@
+Application Name: Current Weather Information
+Application URI: https://touhiduldev.github.io/Weather/
+Description: Its'a Free & Instant current weather information tool.
+Version: 1.0
+Author: Md Touhidul Islam
+
+User Interface (Front end):
+1. HTML
+2. CSS
+3. JavaScript
+4. Bootstrap
+
+Hosting Platform:
+1. GitHub: https://touhiduldev.github.io/Weather/
+2. Netlify: https://getliveweathers.netlify.app/
